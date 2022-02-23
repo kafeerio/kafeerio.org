@@ -8,7 +8,7 @@ A website with information about the Kafeerio project, a virtual coffee house wh
 
 ## Copyright
 
-Copyright &copy; 2021 [Kafeerio](https://kafeerio.org).
+Copyright &copy; 2022 [Kafeerio](https://kafeerio.org).
 
 
 ## License
